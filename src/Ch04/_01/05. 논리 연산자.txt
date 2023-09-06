@@ -1,0 +1,10 @@
+// * 논리 연산자
+// - 논리 연산자도 true 혹은 false를 반환하는 연산자로써 그 종류는 다음과 같다
+
+// 연산자      연산자의 기능                                                 결합 방향
+//  &&        ex) A && B                                                     ->
+//            A와 B 모두 true이면 연산 결과는 true(논리 AND)
+//  ||        ex) A || B                                                     ->
+//            A와 B 둘 중 하나라도 true이면 연산 결과는 true(논리 OR)
+//  !         ex) !A                                                         <-
+//            연산 결과는 A가 true이면 false, A가 false이면 true(논리 NOT)
