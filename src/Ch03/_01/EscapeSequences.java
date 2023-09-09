@@ -6,5 +6,6 @@ public class EscapeSequences {
         System.out.println("AB" + '\t' + 'C');
         System.out.println("AB" + '\n' + 'C');
         System.out.println("AB" + '\r' + 'C');
+        System.out.println("pig" + '\r' + 'P');
     }
 }
